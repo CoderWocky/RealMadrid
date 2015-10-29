@@ -1,5 +1,5 @@
 # RealMadrid
-Práctica de Java Custom Tags con acceso a Base de Datos
+Práctica de Java Custom Tags con varias etiquetas y acceso a Base de Datos
 
 No se ha añadido el código SQL de los procedimientos / funciones almacenadas que pueda utilizar en la práctica.
 
